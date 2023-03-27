@@ -8,9 +8,9 @@ Highlights:
 - Slo-mo video capture
 - Synchronous playback of video and speed measurements
 - Timing
-- Easy video and document sharing
+- Video and document sharing
 
-**Speed and position measurements is only available when you connect your iPhone or iPad to a Screen Speed laser sensor via Wi-Fi.**
+**Measurements is only available when you connect your iPhone or iPad to a Screen Speed laser sensor via Wi-Fi.**
 
 ## Contact
 
